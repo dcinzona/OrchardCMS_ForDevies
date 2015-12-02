@@ -1,0 +1,1 @@
+The goal of this project is to have a single source of ongoing documentation / examples and real life scenarios - that can be outlined, updated and search, while being much more in-depth than the online documentation. A detail focused, shared documentation, much like the ironically named "for dummies" series.
