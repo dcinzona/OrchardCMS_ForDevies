@@ -24,13 +24,19 @@ Why a book and not just the documentation on orchardproject.net?  Theoretically,
 * Development
   * Working with a team
   * Distributed development
-* Principles
+* Principles (The Magic)
   * Extensibility 
   * Hosting
   * Modules (huge chapter)
   * Themes
   * Zones (could be part of themes)
+  * Layers
   * Shapes (huge chapter)
+  * Widgets
+  * Tokens
+  * Content Management
+  * Layouts
+  * Tokens
   * Logs
     * Customizing logging
 
