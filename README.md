@@ -37,8 +37,12 @@ Why a book and not just the documentation on orchardproject.net?  Theoretically,
   * Content Management
   * Layouts
   * Tokens
+  * Localization
   * Logs
     * Customizing logging
+* Secrets
+  * String Extensions
+  * (Other secrets)?
 
 
 #### Some things to keep in mind for inclusion:
